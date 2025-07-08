@@ -1,3 +1,3 @@
 # sql_learn
 
-we must learn sql
+we must learn sql !
